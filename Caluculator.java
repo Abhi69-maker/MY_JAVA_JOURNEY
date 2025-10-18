@@ -46,8 +46,9 @@ public class Main {
 
         System.out.printf("Result: %.2f %c %.2f = %.2f%n", num1, operator, num2, result);
 
-        scanner.close();
+     
 
         scanner.close();
     }
 }
+
